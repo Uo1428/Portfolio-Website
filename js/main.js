@@ -112,6 +112,6 @@
     })();
 })(jQuery);
 function play() {
-            audio.play();
-            audio.loop = true;
-        }
+    audio.play();
+    audio.loop = true;
+}
